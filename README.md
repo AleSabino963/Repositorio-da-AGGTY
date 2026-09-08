@@ -22,8 +22,8 @@ Conheça a equipe responsável pelo desenvolvimento do projeto:
 | 🧪 | **Maria da Gloria Baracat** | Qualidade (QA) | [🔗](https://www.linkedin.com/in/maria-da-gloria-baracat/) |
 | ⚙️ | **Thiago Luis Sabino Leão** | Integrador | [🔗]() |
 | 🧪 | **Yasmim Gabrielle** | Qualidade (QA) | [🔗](https://www.linkedin.com/in/yasmim-gabrielle-48942242b/) |
-| ✍️ | **Gregorio Rossi** | Dev | [🔗](https://www.linkedin.com/in/gregoriorossi/) |
-
+| ✍️ | **Gregorio Rossi** | Dev | [🔗](https://www.linkedin.com/in/gregoriorossi/) | 
+| ✍️ | **              ** | Dev | [🔗](https://www.linkedin.com/in/) |
 ---
 
 ## 🚀 Como Executar o Projeto
