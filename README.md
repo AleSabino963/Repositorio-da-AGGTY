@@ -1,4 +1,4 @@
-# 🛡️ Guilda AGGTY
+# Guilda Remy 🐭
 
 
 ## 📝 Sobre o Projeto
@@ -8,6 +8,7 @@ Projeto acadêmico de iniciação em ADS.
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagens:** Python / JavaScript / Java
+* **Fluxograma:** Flowgorithm
 * **Ferramentas:** Git / GitHub
 
 ---
